@@ -1,5 +1,4 @@
 # PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES AY 23-24
-<h3>AIM:</h3>
 <h3>ENTER YOUR NAME : SANJAY M</h3>
 <h3>ENTER YOUR REGISTER NO : 212223230187</h3>
 <h3>EX. NO : 03</h3>
@@ -381,4 +380,4 @@ int main(int argc, char **argv)
 
 
 ## RESULT:
-Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that _________ has executed with less elapsed time than _____________ with blocks_____,______.
+Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that GPU Unrolling  has executed with less elapsed time than GPU Unrolling8 with blocks 2048,512.
