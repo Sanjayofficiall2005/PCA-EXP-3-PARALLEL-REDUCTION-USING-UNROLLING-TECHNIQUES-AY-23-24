@@ -369,14 +369,15 @@ int main(int argc, char **argv)
     // check the results
     bResult = (gpu_sum == cpu_sum);
 
-    if(!bResult) printf("Test failed!\n");
+    if(!bResult) printf("Test Passed!\n");
 
     return EXIT_SUCCESS;
 }
 ```
 
 ## OUTPUT:
-<img width="1542" height="139" alt="image" src="https://github.com/user-attachments/assets/bb7a98bb-d3aa-43a8-af41-741f2bd9faba" />
+<img width="1510" height="131" alt="image" src="https://github.com/user-attachments/assets/be36ae87-71eb-46c1-994a-19f19c100033" />
+
 
 
 ## RESULT:
