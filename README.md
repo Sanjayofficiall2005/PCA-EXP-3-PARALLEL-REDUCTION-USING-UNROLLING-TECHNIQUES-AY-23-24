@@ -238,8 +238,8 @@ int main() {
 
 ```
 ## OUTPUT:
+<img width="604" height="146" alt="image" src="https://github.com/user-attachments/assets/4386647d-baad-40e6-856c-e0a5b9ffb84d" />
 
-![alt text](image.png)
 
 ## RESULT:
 Thus the program has been executed by unrolling by 8 and unrolling by 16. It is observed that unrolling by 16 has executed with less elapsed time than unrolling by 8 with blocks 4097,2049.
